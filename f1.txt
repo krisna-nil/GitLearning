@@ -25,4 +25,10 @@ git command
 step-1 git init (to intialized folder and track the changes)
 step-2 git status( gives the status of the  files)
 step-3 git add ( to add the files or to move untrack to track file)
+step-4 git commit( to add in local repo)
+
+To public in github or remote server
+git remote add origin https://github.com/krisna-nil/GitLearning.git
+git branch -M main
+git push -u origin main
 
