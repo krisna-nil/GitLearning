@@ -1,0 +1,28 @@
+what is vcs.
+it is version control system
+why we need vcs.
+1.reverse previous file means revert to previous page
+2.revert back previous version
+3.compare change or Line over time
+4.it save code on remote server
+
+Types Of vcs(version control System)
+1.centralized vcs
+i)it is simple to understand
+ii)it is entirely dependent on internet
+iii)if internet/server goes down then nobody can collabrate at all
+iv)if central db is crapted data will loss but 
+2.distributated vcs
+opposite to all the above file.
+
+
+Git work in three status
+1 modified (any changes)
+2.staging area(any changes are store in common area is called staging area)
+3.commit(when all changes moves to local repo then it called commit) 
+
+git command
+step-1 git init (to intialized folder and track the changes)
+step-2 git status( gives the status of the  files)
+step-3 git add ( to add the files or to move untrack to track file)
+
